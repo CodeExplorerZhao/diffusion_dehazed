@@ -1,3 +1,9 @@
+DFG-DDM/results
+DFG-DDM/test_results
+DFG-DDM/ckpts
+DFG-DDM/datasets/__pycache__
+DFG-DDM/logs
+DFG-DDM/models/__pycache__
 DFG-DDM/display/
 DFG-DDM/display0/
 __pycache__/
